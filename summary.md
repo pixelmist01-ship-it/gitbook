@@ -1,13 +1,9 @@
-# SUMMARY.md
+# Summary
 
-## Summary
+- [Home](README.md)
 
-* Home
+## Cybersecurity
+- [Wazuh Project](wazuh/README.md)
 
-### Cybersecurity
-
-* Wazuh Project
-
-### AI Projects
-
-* LLM Training
+## AI Projects
+- [LLM Training](llm-training/README.md)
