@@ -3,7 +3,7 @@
 * [Home](README.md)
 
 ## Cybersecurity
-- [Wazuh Project](./test)
+* [Wazuh Project](./test)
 
 ## AI Projects
-- [LLM Training](./image.jpg)
+* [LLM Training](./image.jpg)
