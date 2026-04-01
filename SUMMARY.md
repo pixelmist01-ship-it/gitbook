@@ -1,4 +1,4 @@
 # Table of contents
 
 * [testfile](testfile.md)
-* [folder](./test/)
+* [folder](test/README.md)
